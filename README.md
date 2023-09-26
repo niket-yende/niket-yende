@@ -9,7 +9,33 @@ I'm Niket Yende, a Lead Engineer and blockchain enthusiast with 9.5+ years of IT
 - 💬 Ask me about blockchain, solidity, java, software architecture 
 - 📫 How to reach me: niket6@gmail.com
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) ![linkedin](https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=LinkedIn&logoColor=white>)
+## 🛠️ Skills
+
+### Languages
+
+[![My Skills](https://skills.thijs.gg/icons?i=java,js,nodejs,typescript,go&theme=light)](https://skills.thijs.gg)
+
+### Databases
+
+[![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,postgres&theme=light)](https://skills.thijs.gg)
+
+### Monitoring tools
+
+[![My Skills](https://skills.thijs.gg/icons?i=grafana,prometheus&theme=light)](https://skills.thijs.gg)
+
+### Deployment
+
+[![My Skills](https://skills.thijs.gg/icons?i=docker,kubernetes&theme=light)](https://skills.thijs.gg)
+
+### Blockchain Development
+
+![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/niket-yende/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/niket-yende)
 
 <!--
 **niket-yende/niket-yende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
