@@ -13,7 +13,7 @@ I'm Niket Yende, a Lead Engineer and blockchain enthusiast with 9.5+ years of IT
 
 ### Languages
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,js,nodejs,typescript,go&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,js,nodejs,typescript,go,solidity&theme=light)](https://skills.thijs.gg)
 
 ### Databases
 
@@ -26,6 +26,9 @@ I'm Niket Yende, a Lead Engineer and blockchain enthusiast with 9.5+ years of IT
 ### Deployment
 
 [![My Skills](https://skills.thijs.gg/icons?i=docker,kubernetes&theme=light)](https://skills.thijs.gg)
+
+### Cloud platforms
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp&perline=3)](https://skillicons.dev)
 
 ### Blockchain Development
 
