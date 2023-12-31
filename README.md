@@ -6,7 +6,7 @@ I'm Niket Yende, a Lead Engineer and blockchain enthusiast with 9.5+ years of IT
 - 🌱 I’m currently learning evm bytecodes, gas optimization techniques
 - 👯 I’m looking to collaborate on blockchain roles
 - 🤔 I’m looking for help with remote work opportunities
-- 💬 Ask me about blockchain, ethereum, solidity, hypperledger fabric, corda, java, node.js, software architecture 
+- 💬 Ask me about blockchain, ethereum, solidity, solana, hypperledger fabric, corda, java, node.js, software architecture 
 - 📫 How to reach me: niket6@gmail.com
 
 ## 🛠️ Skills
