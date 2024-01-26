@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Niket Yende, a Lead Engineer and blockchain enthusiast with 9.5+ years of IT experience.
+I'm Niket Yende, a Lead Engineer and blockchain enthusiast with 10+ years of IT experience.
 
 - 🔭 I’m currently working on solidity smart contracts and solana dapps
 - 🌱 I’m currently learning evm bytecodes, gas optimization techniques and rust
